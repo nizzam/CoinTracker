@@ -7,6 +7,7 @@
 //
 
 import SwiftUI
+import Foundation
 
 struct LineGraph: Shape {
     var dataPoints: [Double]
